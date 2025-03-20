@@ -1,0 +1,165 @@
+﻿site,group,invert,count
+CP,1,Slater 1,10
+CP,1,Spider 2,2
+CP,1,Ant 2,3
+CP,1,Mite 1,1
+CP,1,Worm 1,2
+CP,1,Centipede 1,1
+CP,1,Spider 3,1
+CP,1,Caterpillar 3,2
+CP,1,Slug 1,1
+CP,1,Flatworm 1,1
+CP,1,Larvae 1,1
+CP,1,Caterpillar 2,1
+CP,2,Slater 1,23
+CP,2,Centipede 1,3
+CP,2,Spider 2,11
+CP,2,Webspinner 1 ,5
+CP,2,Ant 1,10
+CP,2,Land Hopper 1,9
+CP,2,Moth 1,1
+CP,2,Worm 1,2
+CP,2,Caterpillar 2,1
+CP,2,Millipede 3,1
+CP,2,Mite 2,1
+CP,2,Millipede 2,1
+CP,3,Spider 1,9
+CP,3,Caterpillar 1,7
+CP,3,Caterpillar 2 ,1
+CP,3,Slater 1,18
+CP,3,Caterpillar 4 ,2
+CP,3,Flatworm 1,1
+CP,3,Caterpillar 5 ,3
+CP,3,Caterpillar 3,3
+CP,3,Worm 1,4
+CP,3,Millipede 1,2
+CP,3,Land Hopper 1,3
+CP,3,Ant 1,4
+CP,3,Webspinner 1 ,1
+CP,3,Psylid 2,1
+CP,3,Pseudoscorpion 1,1
+CP,3,Centipede 1,2
+CP,4,Ant 1,5
+CP,4,Spider 1,2
+CP,4,Spider 3,1
+CP,4,Spider 2,1
+CP,4,Spider 4,1
+CP,4,Slater 1,10
+CP,4,Webspinner 1 ,3
+CP,4,Caterpillar 3,1
+CP,4,Centipede 1,3
+CP,4,Worm 1,1
+CP,4,Land Hopper 1,3
+CP,4,Psylid 1,1
+CP,4,Cockroach 1,1
+CP,4,Larvae 1,1
+CP,5,Larvae 1,1
+CP,5,Larvae 2,1
+CP,5,Worm 1,2
+CP,5,Slater 1,12
+CP,5,Spider 1,2
+CP,5,Ant 1,3
+CP,5,Centipede 1,1
+CP,5,Worm 2,1
+CP,5,True Bug 1,1
+CP,5,Ant 2,1
+CP,5,Spider 2,2
+CP,5,Centipede 2,1
+CP,6,Ant 2,3
+CP,6,Spider 2,10
+CP,6,Slater 1,3
+CP,6,Lacewing 1,2
+CP,6,Caterpillar 1,1
+CP,6,Silverfish 1,1
+CP,6,Land Hopper ,10
+CP,6,Centipede 1,2
+CP,6,Moth 1,1
+CP,6,Pseudoscorpion 1,1
+CP,6,Millipede 2,1
+CP,6,Earthworm 2,3
+REP,1,Spider 1,1
+REP,1,Beetle 1,2
+REP,1,Spider 2,1
+REP,1,Slater 1,34
+REP,1,Ant 2,7
+REP,1,Centipede 1,5
+REP,1,Worm 1,2
+REP,1,Slater 2,2
+REP,1,Millipede 2,1
+REP,1,Millipede 1,2
+REP,1,Land Hopper 1,6
+REP,1,Beetle 3,1
+REP,1,Mite 1,4
+REP,1,Ant 4,1
+REP,1,Mite 2,1
+REP,1,Slater 4,1
+REP,1,Earwig 1,2
+REP,1,Worm 3,1
+REP,1,Pseudoscorpion 1,1
+REP,1,Larvae 3,1
+REP,1,Ant 1,3
+REP,1,Spider 3,1
+REP,2,Spider 1,1
+REP,2,Ant 1,5
+REP,2,Land Hopper 1,8
+REP,2,Beetle 3,2
+REP,2,Mite 1,1
+REP,2,Slater 1,19
+REP,2,Slater 3,1
+REP,2,Ant 2,7
+REP,2,Slater 4,1
+REP,2,Land Hopper 2,4
+REP,2,Centipede 1 ,3
+REP,2,Caterpillar 1,1
+REP,2,Spider 4,1
+REP,2,Earwig 1,5
+REP,2,Centipede 2,4
+REP,2,Termite 1,1
+REP,2,Millipede 3,1
+REP,2,Worm 4,1
+REP,2,Spider 7,1
+REP,2,Spider 2,2
+REP,2,Millipede 1,3
+REP,2,Ant 4,1
+REP,2,Mite 2,1
+REP,2,Larvae 2,2
+REP,3,Earwig 1,2
+REP,3,Worm 1,4
+REP,3,Centipede 1,6
+REP,3,Slater 1,24
+REP,3,Millipede 1,7
+REP,3,Land Hopper 1,6
+REP,3,Ant 1,2
+REP,3,Mite 2,1
+REP,3,Worm 2,4
+REP,3,Spider 5,1
+REP,3,Spider 6,1
+REP,3,Ant 4,4
+REP,3,Cockroach 2,1
+REP,3,Ant 2,1
+REP,3,Slater 4,1
+REP,3,Spider 1,1
+REP,3,Beetle 3,2
+REP,3,Beetle 4,1
+REP,3,Spingtail 1,1
+REP,3,Slater 2,2
+REP,3,Aphid 1,1
+REP,3,Mite 3,1
+REP,3,Spider 3,1
+REP,3,Beetle 1,1
+REP,4,Slater 1,11
+REP,4,Mite 1,1
+REP,4,Spider 3,1
+REP,4,Land Hopper 1,2
+REP,4,Slater 2,3
+REP,4,Ant 1,3
+REP,4,Mite 2,1
+REP,4,Beetle 1,1
+REP,4,Earthworm 1,1
+REP,4,Centipede 1,1
+REP,4,Millipede 1,1
+REP,4,Spider 5,1
+REP,4,Springtail 1,1
+REP,4,Slater 3,1
+REP,4,Larvae 2,1
+REP,4,Ant 2,5
